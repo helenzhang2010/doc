@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T09:12:38.823Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="vtCLh98b1lpajaI5rL2S" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T10:06:32.794Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NAF3_jQgz9d_vE8-iPdj" version="20.3.7" type="github">
   <diagram id="R5M0EQiT70jFXRIH_B0B" name="第 1 页">
-    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,6 +257,9 @@
         </mxCell>
         <mxCell id="CG5CflsM_ie-T5YU8wLy-76" value="通过AIDL调用onLocationChanged" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" vertex="1" parent="1">
           <mxGeometry x="299" y="621" width="109" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CG5CflsM_ie-T5YU8wLy-77" value=".id =&amp;nbsp;GPS_HARDWARE_MODULE_ID" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="395.5" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
