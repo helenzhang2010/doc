@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T05:31:16.051Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZCHrXZqVLa30KsTqBLI3" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T10:13:40.778Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="yzA-4t308fZjpC21kD4M" version="20.3.7" type="github">
   <diagram id="0aJQBa5HSZGKFNsKYAkB" name="第 1 页">
     <mxGraphModel dx="981" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="12xNFlI4UOe2yuJklRJc-1" value="hardware/interfaces/gnss/1.1/default/Gnss.cpp&lt;br&gt;Return&amp;lt;bool&amp;gt; Gnss::start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="150" width="310" height="60" as="geometry" />
+          <mxGeometry x="240" y="280" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="12xNFlI4UOe2yuJklRJc-2" value="GnssHidlEnvironment::Instance()-&amp;gt;getServiceName&amp;lt;IGnss&amp;gt;()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="160" width="220" height="90" as="geometry" />
+        <mxCell id="12xNFlI4UOe2yuJklRJc-5" value="frameworks/base/services/core/jni/com_android_server_location_GnssLocationProvider.cpp&lt;br&gt;gnssHal_V1_1 = IGnss_V1_1::getService()&lt;br&gt;android_location_GnssLocationProvider_start-&amp;gt;gnssHal_V1_1-&amp;gt;start()" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="170" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12xNFlI4UOe2yuJklRJc-6" value="frameworks/base/services/core/java/com/android/server/location/GnssLocationProvider.java&lt;br&gt;startNavigating-&amp;gt;native_start" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="100" width="510" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
