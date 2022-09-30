@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T04:58:16.799Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.3.7" etag="ipXPcuuvSA-PCqBnU2oL" type="github"><diagram id="0aJQBa5HSZGKFNsKYAkB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-30T05:31:16.051Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZCHrXZqVLa30KsTqBLI3" version="20.3.7" type="github">
+  <diagram id="0aJQBa5HSZGKFNsKYAkB" name="第 1 页">
+    <mxGraphModel dx="981" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="12xNFlI4UOe2yuJklRJc-1" value="hardware/interfaces/gnss/1.1/default/Gnss.cpp&lt;br&gt;Return&amp;lt;bool&amp;gt; Gnss::start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12xNFlI4UOe2yuJklRJc-2" value="GnssHidlEnvironment::Instance()-&amp;gt;getServiceName&amp;lt;IGnss&amp;gt;()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="220" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
